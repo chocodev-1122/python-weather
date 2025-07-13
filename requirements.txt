@@ -179,7 +179,7 @@ pyudev==0.24.3
 pywidevine==1.8.0
 pyxdg==0.27
 PyYAML==6.0.2
-pyynl @ file:///builddir/build/BUILD/kernel-6.15.5-build/kernel-6.15.5/linux-6.15.5-200.fc42.x86_64/tools/net/ynl
+pyynl @ file:///builddir/build/BUILD/kernel-6.15.5-build/kernel-6.15.4/linux-6.15.4-200.fc42.x86_64/tools/net/ynl
 RapidFuzz==3.11.0
 re-unplayplay==1.2.9
 referencing==0.36.2
