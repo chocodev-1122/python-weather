@@ -44,9 +44,7 @@ construct==2.8.8
 crypt_r==3.13.1
 cryptography==44.0.0
 cupshelpers==1.0
-custom_gamdl @ git+https://github.com/mediaharbor/custom_gamdl.git@cd57489af774920420baca54a91f441156ecb9a7
-custom_streamrip @ git+https://github.com/mediaharbor/custom_streamrip.git@ffe430d709099f26affefee3ac22d158bd6072ad
-custom_votify @ git+https://github.com/mediaharbor/custom_votify.git@082900f3fc82118aa75ee102f35b125601801950
+
 dasbus==1.7
 dbus-python==1.3.2
 dbus_next==0.2.3
@@ -196,9 +194,7 @@ rsa==4.9
 ruff==0.11.5
 safehttpx==0.1.6
 screeninfo==0.8.1
-selinux @ file:///builddir/build/BUILD/libselinux-3.8-build/libselinux-3.8/src
-semantic-version==2.10.0
-sepolicy @ file:///builddir/build/BUILD/policycoreutils-3.8-build/selinux-3.8/python/sepolicy
+
 setools==4.5.1
 setuptools==74.1.3
 shellingham==1.5.4
